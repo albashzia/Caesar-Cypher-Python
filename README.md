@@ -14,3 +14,12 @@ while preserving letter case and leaving non-alphabet characters unchanged.
   - `z → c`
 - Uppercase and lowercase letters are handled separately
 - Spaces, numbers, and symbols remain unchanged
+
+
+## 🧠 Concepts Used
+
+- String traversal
+- Conditional statements
+- ASCII character manipulation using `ord()` and `chr()`
+- Modulus operation for wrap-around logic
+- Function-based design
